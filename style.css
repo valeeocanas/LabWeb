@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-family:"Comicsans";
+    font-weight: bolder;
+    margin-bottom: 6px;
+}
+
+a[href^="mailto:"] { 
+  font-family: "Comicsans";
+  color: green;
+  font-size: 14px;
+  margin-bottom: -18px;
+  display:block;
+  text-align:center
+    
+}
+
+address {
+    text-align: center; 
+    font-family:"Comicsans";
+  
+}
+
+h3 {
+    text-align: left;
+    font-family:"Arial";
+    font-weight: bolder;
+    margin-bottom: 6px;
+}
+
+p {
+    text-align: left;
+    font-family:"Arial";
+    font-weight: 100;
+}
+
+li {
+    text-align: left;
+    font-family:"Arial";
+    font-weight: bolder;
+}
+
+nav {
+    text-align: center;
+    font-family:"Comicsans";
+    font-weight: bolder;
+    padding: 10px;
+}
+
+body {
+  background-color: #c4c4c4;
+}
